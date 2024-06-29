@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my portfolio website! This project showcases my work, skills, and projects. Built using HTML, CSS, and JavaScript, it offers a responsive and user-friendly experience. Live at: https://takitajwar17-portfolio.vercel.app/
+Welcome to my portfolio website! This project showcases my work, skills, and projects. Built using HTML, CSS, and JavaScript, it offers a responsive and user-friendly experience. Live at: takitajwar17-portfolio.vercel.app/
 <br> <br>
 ![Screenshot 2024-06-29 200645](https://github.com/takitajwar17/personal-dev-portfolio/assets/111155827/d523bf89-ea0e-49c4-92bf-920644af8c7b)
 
