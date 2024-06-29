@@ -477,9 +477,9 @@ main {
 
 .navbar-link {
   color: var(--light-gray);
-  font-size: var(--fs-9); /* Increased font size */
+  font-size: var(--fs-6); /* Increased font size */
   font-weight: bold; /* Bold text */
-  padding: 20px 7px;
+  padding: 20px 6px;
   transition: color var(--transition-1);
 }
 
