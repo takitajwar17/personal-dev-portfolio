@@ -477,10 +477,12 @@ main {
 
 .navbar-link {
   color: var(--light-gray);
-  font-size: var(--fs-8);
+  font-size: var(--fs-9); /* Increased font size */
+  font-weight: bold; /* Bold text */
   padding: 20px 7px;
   transition: color var(--transition-1);
 }
+
 
 .navbar-link:hover,
 .navbar-link:focus { color: var(--light-gray-70); }
