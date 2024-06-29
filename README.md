@@ -16,6 +16,7 @@ Welcome to my portfolio website! This project showcases my work, skills, and pro
 - **HTML5:** Semantic structure.
 - **CSS3:** Flexbox, Grid, and animations.
 - **JavaScript:** Interactive features and form validation.
+- **Vercel:** Easy, fast and free-of-cost deployment.
 
 ## Getting Started
 
